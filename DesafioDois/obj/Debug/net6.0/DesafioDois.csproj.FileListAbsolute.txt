@@ -1,0 +1,15 @@
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\bin\Debug\net6.0\DesafioDois.exe
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\bin\Debug\net6.0\DesafioDois.deps.json
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\bin\Debug\net6.0\DesafioDois.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\bin\Debug\net6.0\DesafioDois.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\bin\Debug\net6.0\DesafioDois.pdb
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\refint\DesafioDois.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.pdb
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\DesafioDois.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioDois\obj\Debug\net6.0\ref\DesafioDois.dll

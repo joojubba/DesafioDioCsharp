@@ -1,0 +1,15 @@
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\bin\Debug\net6.0\DesafioCinco.exe
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\bin\Debug\net6.0\DesafioCinco.deps.json
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\bin\Debug\net6.0\DesafioCinco.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\bin\Debug\net6.0\DesafioCinco.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\bin\Debug\net6.0\DesafioCinco.pdb
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\refint\DesafioCinco.dll
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.pdb
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\DesafioCinco.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\DIO\DesafioDioCSharp\DesafioCinco\obj\Debug\net6.0\ref\DesafioCinco.dll
